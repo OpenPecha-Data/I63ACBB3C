@@ -1,0 +1,18 @@
+id: I63ACBB3C
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:24.300879
+last_modified: 2023-01-04 11:31:24.300893
+source_metadata:
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+bases:
+  33ED:
+    title: Short Maṇḍala Offering
+    base_file: 33ED.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
